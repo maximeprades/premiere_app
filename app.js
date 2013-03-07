@@ -6,7 +6,7 @@
       'app.activated':'doSomething',
       'fetchQuote.always': function(data) {this.getQuote(data);},
       'ticket.priority.changed': function() {this.ajax('fetchQuote');}
-      'click a.action'     : 'getUrl'
+ //     'click a.action':'getUrl'
     },
 
     requests: {
@@ -32,6 +32,13 @@
     	 	sayQuote: data.responseText
     	 });
     }
+
+ //   getUrl: function() {
+ //       var ticketSubject = this.ticket().subject();
+ //                   {
+ //               
+ //           });
+ //   },
 
 
   };
