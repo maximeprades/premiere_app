@@ -3,9 +3,11 @@
     <h2><strong>Hello {{sayUsername}}</strong></h2>
   </p>
   <br/>
+  <p>
 	<h3><strong>I see you have a ticket about {{saySubject}}</strong></h3>
 	<strong>You might be interested on clicking on the following button<strong>
+  </p>
   <br/>
-  <a class="btn btn-info dismiss">{{t "hello.info"}}</a>
+  <a class="btn btn-info action">{{t "hello.info"}}</a>
   <br/>
 </div>

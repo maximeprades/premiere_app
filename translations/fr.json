@@ -1,9 +1,10 @@
 {
   "app": {
-    "description":  "Play the famous zen tunes in your help desk.",
-    "name":         "Buddha Machine"
+    "description":  "Une magnifique App qui ne sert à rien",
+    "name":         "Maxime the coding machine"
   },
 
- "hello": "BONJOUR"
-
+  "hello": {
+    "info": "Emmène moi au 7ème ciel !"
+  }
 }
