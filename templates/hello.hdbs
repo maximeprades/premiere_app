@@ -8,6 +8,6 @@
 	<strong>You might be interested on clicking on the following button<strong>
   </p>
   <br/>
-  <a class="btn btn-info action">{{t "hello.info"}}</a>
+  <a href="{{this.url}}" target="_blank" class="btn btn-info action">{{t "hello.info"}}</a>
   <br/>
 </div>
