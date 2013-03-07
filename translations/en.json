@@ -1,0 +1,13 @@
+{
+  "app": {
+    "description":  "Enjoy a beautiful useless App",
+    "name":         "Maxime the coding machine"
+  },
+
+  "hello": {
+    "notification": "Did you remember to attach your file ?",
+    "title": "Hello !",
+    "body": "You mentioned an attachment, did you remember to add it to your comment ?",
+    "info": "Show me the money !"
+  }
+}

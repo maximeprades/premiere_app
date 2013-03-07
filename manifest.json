@@ -1,0 +1,16 @@
+{
+  "name": "The Useless App",
+  "author": {
+    "name": "Maxime the coding machine",
+    "email": "mprades@zendesk.com"
+  },
+  "parameters": [
+{
+	"name": "Name of the App"
+}
+  ],
+   "defaultLocale": "en",
+  "private": true,
+  "location": "ticket_sidebar",
+  "frameworkVersion": "0.5"
+}
